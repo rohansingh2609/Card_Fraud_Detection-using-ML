@@ -16,8 +16,8 @@ A real-time, interactive dashboard built with Python and Tkinter to predict and 
 
 ## 📸 Screenshots
 
-<img src="screenshots/dashboard.png" width="600"/>
-*(Add a screenshot of your dashboard if possible)*
+<img src="https://github.com/rohansingh2609/Card_Fraud_Detection-using-ML/blob/main/ScreenShot/1.png?raw=true" width="600"/>
+<img src="https://github.com/rohansingh2609/Card_Fraud_Detection-using-ML/blob/main/ScreenShot/1.png?raw=true" width="600"/>
 
 ---
 
